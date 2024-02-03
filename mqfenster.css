@@ -1,12 +1,10 @@
-
-
-form{
+body{
     font-size:40px;
     background-color: white;
     color:black;
     align-content: center;
 }
 
-#checkbox{
-    color:floralwhite;
+form{
+   box-sizing: border-box;   
 }

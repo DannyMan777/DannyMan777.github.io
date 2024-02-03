@@ -1,0 +1,18 @@
+body{
+    background-image: url("TicOpenLogo.jpg");
+    font-size: 30;
+    color: floralwhite
+}
+
+a:link {
+    color: antiquewhite;
+}
+a:hover {
+    color: navajowhite;
+}
+a:active {
+    color: navajowhite;
+}
+a:visited {
+    color: lightgray
+}
