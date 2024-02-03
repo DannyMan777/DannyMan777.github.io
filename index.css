@@ -1,5 +1,6 @@
 body{
     background-image: url("TicOpenLogo.jpg");
+    background-repeat: no-repeat;
     font-size: 30;
     color: floralwhite
 }
