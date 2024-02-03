@@ -1,8 +1,12 @@
-body{
-    font-family: Georgia, serif;
-}
+
 
 form{
-    font-size:large;
-    background-color: lightskyblue;
+    font-size:40px;
+    background-color: white;
+    color:black;
+    align-content: center;
+}
+
+#checkbox{
+    color:floralwhite;
 }
